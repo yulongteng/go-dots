@@ -14,5 +14,5 @@ const (
 
 const (
 	IPV4_HOST_PREFIX_LEN = "/32"
-	IPV6_HOST_PREFIX_LEN = "/128"
+	IPV6_HOST_PREFIX_LEN = "/150"
 )
