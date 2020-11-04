@@ -54,6 +54,7 @@ func init() {
 
 /*
  * readJsonFile is a function that loads a JSON file and returns []byte.
+ * add sometest
  */
 func readJsonFile(path string) (jsonData []byte, err error) {
 	jsonData = nil
